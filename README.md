@@ -26,7 +26,7 @@ Stooq, adjusted close prices (dividends included).
 
 ## Files
 - `Stock_Dashboard_v1.pbix`: Power BI file (open in Power BI Desktop to use the slicers)
-- `Stock_Dashboard.pdf`: static preview of both pages
+- `Stock_Data_for_PowerBI_Final.xlsx`: cleaned price data used in the dashboard
 
 ## Note
 Learning project, not investment advice.
