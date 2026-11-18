@@ -25,7 +25,7 @@ An interactive 2-page Power BI dashboard comparing five US stocks and the S&P 50
 Stooq, adjusted close prices (dividends included).
 
 ## Files
-- `Stock_Dashboard_v1.pbix`: Power BI file (open in Power BI Desktop to use the slicers)
+- `Stock_Dashboard_v1..pbix`: Power BI file (download and open in Power BI Desktop to use the slicers)
 - `Stock_Data_for_PowerBI_Final.xlsx`: cleaned price data used in the dashboard
 
 ## Note
